@@ -1,6 +1,0 @@
-# x = np.linspace(0, 9, 400)
-# y = 1/(x-5) * np.sin(17*np.pi/(x-5))* norm.pdf((x-5), 0, 1000)
-# x = np.reshape(x, (x.shape[0], 1))
-
-# x_ticks = [-22050,-10000,-4000, 400, 4000, 10000, 22050]
-# plt.xticks (ticks=x_ticks)
